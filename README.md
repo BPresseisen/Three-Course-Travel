@@ -1,4 +1,4 @@
-# Project1
+# Project1 aka Three Course Travel
 
 http://threecoursetravel.com
 
